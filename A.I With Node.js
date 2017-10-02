@@ -24,3 +24,13 @@ node modules: {
 }
 
 * Include the module instead of using RESTful API
+
+Resources: {
+	microsoft.com / cognitive - services,
+	microsoft.com / en - us / seeing - ai,
+	luis.ai,
+	devbotframework.com,
+	github.com / dwcares / chatrobot,
+	docs.microsoft.com / node.js,
+	particle.io
+}
