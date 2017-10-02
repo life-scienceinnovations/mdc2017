@@ -32,13 +32,13 @@ Theory of Action -> Actions we choose -> Observe & Adjust Action and Theory
 	-Try things to disprove your assumptions
 	-TDD style when building theory
 
-Skill - A measure of your ability to behave effectively in situations of action.
+	Skill - A measure of your ability to behave effectively in situations of action.
 
-Types of Knowledges:
+	Types of Knowledges:
 
-Explicit Knowledge - can be articulated,
-Implicite Knowledge - not explicit but could be articulated and codified with effort,
-Tacit Knowledge - cannot be articulated
+	Explicit Knowledge - can be articulated,
+	Implicite Knowledge - not explicit but could be articulated and codified with effort,
+	Tacit Knowledge - cannot be articulated
 
 2. Keep learning loops short!
 	-Cause & Effect (the further apart they are, the hard it is to learn)
@@ -46,7 +46,7 @@ Tacit Knowledge - cannot be articulated
 	-Codewars
 	-Limit work in progress
 
-Explicit Memory - Memeory you know you know (Semantic & Episodic)
+	Explicit Memory - Memeory you know you know (Semantic & Episodic)
 
 3. Keep an open mind and explore!
 	-Continue to be curious 
@@ -54,7 +54,7 @@ Explicit Memory - Memeory you know you know (Semantic & Episodic)
 	-Allow yourself to go on explorative tangets
 	-Budget time for these curiosities
 
-Implicit Memory - Things you don't necessarily have readily available as memory.
+	Implicit Memory - Things you don't necessarily have readily available as memory.
 
 4. Seek guided learning to exploit zone of proximal development
 	-Find a mentor
@@ -62,5 +62,35 @@ Implicit Memory - Things you don't necessarily have readily available as memory.
 	-Watching peer reviews or have group peer reviews
 	-Be mindful and listen to implicit memory
 
-Myelination - Basically muscle memory.
-Neuroplasticity & Neurogenesis - DRYing things up, the more time you spend doing things, your brain wires itself to better do those things.
+	Myelination - Basically muscle memory.
+
+	Neuroplasticity & Neurogenesis - DRYing things up, the more time you spend doing things, your brain wires itself to better do those things.
+
+	*Intentional learning usually promotes evaluating our own success.
+
+5. Step outside of your comfort zones when learning
+	-Know what mental effort feels like, rest, reset, repeat!
+	-Try switching context for a quick rest
+	-Catch yourself taking the easy way out.
+
+	"Always do what you are afraid to do."   -Emerson
+
+	Reasons to step out of comfort:
+		1 - Resting in comfort zones breeds holy wars.
+		2 - Don't get caught in "local maximums"
+		3 - Learning things allows us to keep learning as we age.
+		4 - Allows you to relate to other things in life.
+		5 - There is simply too much information out there, so get used to it.
+
+6. Sense and destroy your fear of loss of time
+	-Take time to learn keyboard shortcuts
+	-Play with the command line
+	-Automate things with gulp, webpack, browserify
+	-Express things differently (draw things out, write it out by hand, print it out and restructure)
+
+7. Explain to other people what you've learned
+	-Blogging
+	-Give a talk
+	-Maybe just verbalize your problem out loud
+
+	*We have to be good at learning and knowing what we need to learn.
